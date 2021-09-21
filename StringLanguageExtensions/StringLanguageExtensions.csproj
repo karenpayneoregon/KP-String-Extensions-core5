@@ -7,6 +7,13 @@
 		<PackageIcon>StringExtensions.png</PackageIcon>
 		<PackageIconUrl />
 		<Description>Common language extensions for string using .NET Core 5, C#9</Description>
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<RepositoryType>C# Class project</RepositoryType>
+		<RepositoryUrl>https://github.com/karenpayneoregon/KP-String-Extensions-core5</RepositoryUrl>
+		<PackageId>KP.StringLanguageExtensions</PackageId>
+		<PackageTags>C# string extensions</PackageTags>
+		<PackageProjectUrl>https://github.com/karenpayneoregon/KP-String-Extensions-core5</PackageProjectUrl>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 	</PropertyGroup>
 
 	<ItemGroup>

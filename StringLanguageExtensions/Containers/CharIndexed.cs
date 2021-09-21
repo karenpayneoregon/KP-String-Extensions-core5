@@ -1,5 +1,8 @@
 ﻿namespace StringLanguageExtensions.Containers
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public class CharIndexed
     {
         public char Char { get; set; }
