@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net5.0</TargetFramework>
+		<LangVersion>9.0</LangVersion>
+		<PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+		<PackageIcon>StringExtensions.png</PackageIcon>
+		<PackageIconUrl />
+		<Description>Common language extensions for string using .NET Core 5, C#9</Description>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <None Include="..\assets\StringExtensions.png">
+	    <Pack>True</Pack>
+	    <PackagePath></PackagePath>
+	  </None>
+	</ItemGroup>
+
+</Project>
