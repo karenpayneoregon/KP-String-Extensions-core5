@@ -3,6 +3,7 @@
 | IsNullOrWhiteSpace |String to test if `null` or `whitespace` |
 |UpTo|Get file name only, avoid multiple file extensions e.g. DirectoryGetFilesMultipleFilters.deps.json|
 |EqualsIgnoreCase|Determines whether two specified String objects have the same value, case insensitive.|
+|ContainsAny|Determines whether one or more tokens exists in a string, case insensitive.|
 |RemoveAllWhiteSpace|Remove all white space in a string, at start, end and in-between|
 |StringBetweenQuotes|Extract text between single quotes|
 |SplitCamelCase|Split string by upper cased chars e.g. KarenAnnePayne becomes Karen Anne Payne|

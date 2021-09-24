@@ -17,7 +17,7 @@ namespace BaseUnitTestProject
         [TestInitialize]
         public void Initialization()
         {
-            if (TestContext.TestName == nameof(TestMethod1))
+            if (TestContext.TestName == nameof(IsNullOrWhiteSpaceTest))
             {
                 // TODO
             }
@@ -29,7 +29,7 @@ namespace BaseUnitTestProject
         [TestCleanup]
         public void TestCleanup()
         {
-            if (TestContext.TestName == nameof(TestMethod1))
+            if (TestContext.TestName == nameof(IsNullOrWhiteSpaceTest))
             {
                 // TODO
             }
